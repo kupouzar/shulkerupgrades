@@ -1,0 +1,956 @@
+{
+    "sources": [
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/black/shulker_black_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/blue/shulker_blue_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/brown/shulker_brown_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/cyan/shulker_cyan_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/gray/shulker_gray_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/green/shulker_green_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_blue/shulker_light_blue_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/light_gray/shulker_light_gray_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/lime/shulker_lime_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/magenta/shulker_magenta_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/normal/shulker_normal_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/orange/shulker_orange_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/pink/shulker_pink_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/purple/shulker_purple_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/red/shulker_red_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/white/shulker_white_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_diamond"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_diamond_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_diamond_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_gold"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_gold_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_gold_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_iron"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_iron_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_iron_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_netherite"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_netherite_auto"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_netherite_void"
+    },
+    {
+        "type": "single",
+        "resource": "us:shulker/yellow/shulker_yellow_void"
+    }
+    ]
+}

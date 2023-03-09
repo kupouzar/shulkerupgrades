@@ -6,7 +6,6 @@ import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.fabricmc.fabric.api.client.rendering.v1.BlockEntityRendererRegistry;
 import net.fabricmc.fabric.api.client.rendering.v1.BuiltinItemRendererRegistry;
-import net.fabricmc.fabric.api.client.screenhandler.v1.ScreenRegistry;
 import net.fabricmc.fabric.api.event.client.ClientSpriteRegistryCallback;
 import net.kyrptonaught.upgradedshulker.UpgradedShulkerMod;
 import net.kyrptonaught.upgradedshulker.block.blockentity.UpgradedShulkerBlockEntity;
@@ -54,7 +53,7 @@ public class UpgradedShulkerClientMod implements ClientModInitializer {
     private void registerTexture(DyeColor color, ShulkerUpgrades.MATERIAL type, String modifier) {
         String colorName = color != null ? color.getName() : "normal";
         Identifier id = new Identifier("us", "shulker/" + colorName + "/shulker_" + colorName + "_" + type.name + modifier);
-        ClientSpriteRegistryCallback.event(TexturedRenderLayers.SHULKER_BOXES_ATLAS_TEXTURE).register((atlasTexture, registry) -> registry.register(id));
+        //ClientSpriteRegistryCallback.event(TexturedRenderLayers.SHULKER_BOXES_ATLAS_TEXTURE).register((atlasTexture, registry) -> registry.register(id));
         SHULKER_TEXTURES.put(colorName + type.name + modifier, id);
     }
 
